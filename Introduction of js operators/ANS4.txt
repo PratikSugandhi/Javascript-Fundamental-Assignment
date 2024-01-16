@@ -1,0 +1,10 @@
+Precedence refers to the order in which operators are evaluated when multiple operators are present
+in an expression. Operators with higher precedence are executed first. For example, in the expression 3 + 5 * 2,
+multiplication (*) has higher precedence than addition (+), so the multiplication is performed first
+
+
+const result = 3 + 5 * 2; // The result will be 13, not 16 (if addition had
+higher precedence)
+
+Understanding operator precedence is crucial for writing accurate and efficient JavaScript code.
+ By knowing the order in which operators are evaluated, developers can control the flow of calculations and ensure the desired results.

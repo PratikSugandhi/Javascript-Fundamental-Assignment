@@ -1,0 +1,25 @@
+**Importance of Descriptive Variable Names
+
+Use descriptive names  
+Select variable names that are meaningful and describe their purpose. Avoid using vague or generic names that may be confusing. Clear and descriptive variable names improve code readability and make it easier for others (including yourself) to understand the code.  
+
+Declare variables at the beginning of the scope  
+It is considered a good practice to declare variables at the beginning of their respective scope, whether it's within a function or a block. This approach promotes better code organisation and prevents unexpected hoisting-related behaviour. By declaring variables upfront, you provide a clear overview of the variables used in a particular scope.  
+
+Minimise the use of global variables  
+You can access global variables from anywhere in your code, which increases the risk of naming conflicts and unintended side effects. Minimise the use of global variables by encapsulating your code within functions or modules. This helps to maintain the independence and reusability of different code sections.  
+
+
+**Example Demonstrating the Importance of Descriptive Variable Names:
+Consider the following example, where two variables store the price and quantity of a product. One uses a
+meaningful name (productPrice and productQuantity), while the other uses less descriptive names (a and b):
+**
+// Less Descriptive Variable Names
+let a = 10; // Price of the product
+let b = 5; // Quantity of the product
+let total = a * b; // Calculate total cost
+// More Descriptive Variable Names
+let productPrice = 10; // Price of the product
+let productQuantity = 5; // Quantity of the product
+let totalPrice = productPrice * productQuantity; // Calculate total cost
+

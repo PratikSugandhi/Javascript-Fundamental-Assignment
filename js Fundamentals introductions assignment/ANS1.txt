@@ -1,0 +1,25 @@
+JavaScript is a popular programming language that is widely used to build web applications. It is a client-side 
+scripting language, which means that it is run by your web browser rather than on a server. This makes it a 
+good choice for building web applications that need to be fast and responsive, as the code is run locally on the 
+user's device rather than having to be sent back and forth between a server and a client. JavaScript is also 
+used to build mobile apps, create interactive documents, and build server-side applications with the help of 
+runtime environments such as Node.js.
+
+
+Features Of Javascript
+1. Ease of use: JavaScript is a high-level language, which means that it is easy to learn and use. It is also a 
+dynamically-typed language, which means that you don't have to specify the type of a variable when you 
+declare it, making it easy to write code quickly.
+
+2. Cross-platform compatibility: JavaScript is supported by all modern web browsers, so you can use it to 
+build web applications that will run on any device with a web browser
+3.   A large developer community: There is a large and active community of developers who use and contribute 
+to JavaScript, which means that there are many resources available for learning the language and getting 
+help when you need it
+ 
+4. Powerful capabilities: JavaScript has a lot of powerful features that allow you to build complex and 
+interactive applications. For example, you can use JavaScript to manipulate the HTML and CSS of a web 
+page, make asynchronous network requests, and work with multimedia and other types of data
+
+5.Growing demand: The demand for JavaScript developers is high and continues to grow, making it a good 
+language to learn if you want to pursue a career in software development.

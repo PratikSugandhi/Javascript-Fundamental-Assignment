@@ -1,0 +1,11 @@
+*****
+JavaScript, a cornerstone of modern web development, is a robust language full of numerous features and constructs.
+ Among these, operators (special symbols such as +, +=, &&, or ...) play an essential role, enabling us to perform different types of calculations and manipulations on variables and values.
+Despite their importance, operators can sometimes be a source of confusion for new programmers and seasoned coders alike.
+
+*****
+An operand is the item that operators work on. If we think of an operator as a kind of action, the operand is what the action is applied to. For example, in the expression 5 + 3, + is the operator (the action of addition), and 5 and 3 are the operands — the numbers being added together. In JavaScript, operands can be of various types, such as numbers, strings, variables, or even more complex expressions.
+
+Coercion is the process of converting a value from one primitive type to another. For example, JavaScript might change a number into a string, or a non-Boolean value into a Boolean. The primitive types in JavaScript are String, Number, BigInt, Boolean, undefined, Symbol or null.
+
+NaN stands for Not a Number. It’s a special value of the Number type that represents an invalid or unrepresentable numeric value.

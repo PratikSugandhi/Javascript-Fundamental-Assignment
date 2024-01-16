@@ -1,0 +1,35 @@
+There are many operators in JavaScript that let you carry out different operations.
+
+These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial.
+
+The three categories of operators based on the number of operands they require are:
+
+Unary operators: which require one operand (Un)
+Binary operators: which require two operands (Bi)
+Ternary operators: which require three operands (Ter)
+Note that these categories do not only apply to JavaScript. They apply to programming in general.
+
+*****
+Unary Operator-
+These operators require one operand for operation. Providing two or more can result in a syntax error.
+
+1. unary plus.
+1. unary minus.
+3.pre and post increment
+4.pre and psot decrement
+
+
+*****Binary Operator-
+These operators require two operands for operation. 
+If one or more than two operands are provided, such operators result in a syntax error.
+1. Arthimatic operator
+2.assignement operator
+3.Comparision operator.
+
+
+*****Ternary Operator-
+These operators require three operands.
+ In JavaScript, there is one operator that falls under this category – the conditional operator.
+
+ syntax-
+conditon ? trueExpression : falseExpression
